@@ -17,7 +17,7 @@
 
 Hi, I'm iv. Omarchy user and advocate, mainly programming in Rust and Java. I just do stuff.
 
-- 🛹 working on [ReSkate for Mac](https://github.com/ValveTextureFile/reskatem), while contrinuting to server development and luau plugins for the [ReSkate]("https://github.com/DingoShenanigans/ReSkate") modding platform.
+- 🛹 working on [ReSkate for Mac](https://github.com/ValveTextureFile/reskatem), while contrinuting to server development and luau plugins for the [ReSkate]("https://github.com/Dingo-Shenanigans/ReSkate") modding platform.
 - 🤖 writing [rplib](https://github.com/ValveTextureFile/rplib), a Rust library for FRC robot programming
 - 🌐 website: [vtf.qd.je](http://vtf.qd.je/)
 
