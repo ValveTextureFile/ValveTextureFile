@@ -38,14 +38,14 @@ Hi, I'm iv. Omarchy user and advocate, mainly programming in Rust and Java. I ju
 ## projects
 
 <p align="center">
-  <a href="https://github.com/ValveTextureFile/reskatem"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ValveTextureFile&repo=reskatem" alt="reskatem"></a>
-  <a href="https://github.com/ValveTextureFile/rplib"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ValveTextureFile&repo=rplib" alt="rplib"></a>
-  <a href="https://github.com/ValveTextureFile/MorePost"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ValveTextureFile&repo=MorePost" alt="MorePost"></a>
+  <a href="https://github.com/ValveTextureFile/reskatem"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ValveTextureFile&repo=reskatem&theme=github_dark" alt="reskatem"></a>
+  <a href="https://github.com/ValveTextureFile/rplib"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ValveTextureFile&repo=rplib&theme=github_dark" alt="rplib"></a>
+  <a href="https://github.com/ValveTextureFile/MorePost"><img src="https://github-stats-extended.vercel.app/api/pin/?username=ValveTextureFile&repo=MorePost&theme=github_dark" alt="MorePost"></a>
 </p>
 
 ## stats
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=ValveTextureFile&show_icons=true" alt="GitHub stats"></a>
-  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ValveTextureFile&layout=compact" alt="Top Langs"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=ValveTextureFile&show_icons=true&theme=github_dark" alt="GitHub stats"></a>
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ValveTextureFile&layout=compact&theme=github_dark" alt="Top Langs"></a>
 </p>
